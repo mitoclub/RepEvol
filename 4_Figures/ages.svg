@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100" name="timetree-geo-timescales" y="0">
+<defs>
+<polyline points="19,0 19,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<g id="timescale-ages" class="geo-timescale">
+<rect x="2.2%" y="0" width="67.2%" height="20" fill="none" stroke="#555555" stroke-width="1"></rect>
+<rect x="2.3%" y="2" width="0.6%" height="16" fill="#FED99A" stroke="#FED99A" stroke-width="3" full-name="Rupelian" start="33.90" end="28.40" unit="Age" title="Rupelian"></rect>
+<rect x="2.9%" y="2" width="12.6%" height="18" fill="#FEE6AA" stroke="#FEE6AA" stroke-width="3" full-name="Chattian" start="28.40" end="23.03" unit="Age" title="Chattian"></rect>
+<rect x="15.4%" y="2" width="6.1%" height="18" fill="#FFFF33" stroke="#FFFF33" stroke-width="3" full-name="Aquitanian" start="23.03" end="20.43" unit="Age" title="Aquitanian"></rect>
+<rect x="21.6%" y="2" width="10.4%" height="18" fill="#FFFF41" stroke="#FFFF41" stroke-width="3" full-name="Burdigalian" start="20.43" end="15.97" unit="Age" title="Burdigalian"></rect>
+<rect x="32.0%" y="2" width="5.0%" height="18" fill="#FFFF4D" stroke="#FFFF4D" stroke-width="3" full-name="Langhian" start="15.97" end="13.82" unit="Age" title="Langhian"></rect>
+<rect x="37.0%" y="2" width="5.2%" height="18" fill="#FFFF59" stroke="#FFFF59" stroke-width="3" full-name="Serravallian" start="13.82" end="11.61" unit="Age" title="Serravallian"></rect>
+<rect x="42.2%" y="2" width="10.2%" height="18" fill="#FFFF66" stroke="#FFFF66" stroke-width="3" full-name="Tortonian" start="11.61" end="7.25" unit="Age" title="Tortonian"></rect>
+<rect x="52.4%" y="2" width="4.6%" height="18" fill="#FFFF73" stroke="#FFFF73" stroke-width="3" full-name="Messinian" start="7.25" end="5.33" unit="Age" title="Messinian"></rect>
+<rect x="57.0%" y="2" width="4.0%" height="18" fill="#FFFFB3" stroke="#FFFFB3" stroke-width="3" full-name="Zanclean" start="5.33" end="3.60" unit="Age" title="Zanclean"></rect>
+<rect x="61.0%" y="2" width="2.3%" height="18" fill="#FFFFBF" stroke="#FFFFBF" stroke-width="3" full-name="Piacenzian" start="3.60" end="2.59" unit="Age" title="Piacenzian"></rect>
+<rect x="63.3%" y="2" width="1.9%" height="18" fill="#FFFFCC" stroke="#FFFFCC" stroke-width="3" full-name="Gelasian" start="2.59" end="1.81" unit="Age" title="Gelasian"></rect>
+<rect x="65.2%" y="2" width="2.4%" height="18" fill="#FFF2BA" stroke="#FFF2BA" stroke-width="3" full-name="Lower" start="1.81" end="0.78" unit="Age" title="Lower"></rect>
+<rect x="67.7%" y="2" width="1.4%" height="18" fill="#FFF2C7" stroke="#FFF2C7" stroke-width="3" full-name="Middle" start="0.78" end="0.13" unit="Age" title="Middle"></rect>
+<rect x="69.1%" y="2" width="0.3%" height="18" fill="#FFF2D3" stroke="#FFF2D3" stroke-width="3" full-name="Upper" start="0.13" end="0.01" unit="Age" title="Upper"></rect>
+<rect x="69.4%" y="2" width="0.0%" height="18" fill="#FEF2EC" stroke="#FEF2EC" stroke-width="3" full-name=" " start="0.01" end="0.00" unit="Age" title=" "></rect>
+<polyline points="624,0 624,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<rect x="69.4%" y="0" width="0.3%" height="22" fill="white" stroke="white" stroke-width="1"></rect>
+</g>
+<g id="timescale-ages-text" class="geo-timescale">
+<text x="5.4%" y="18" full-name="Chattian" start="28.40" end="23.03" unit="Age" font-family="Roboto Condensed">Chattian</text>
+<text x="17.1%" y="18" full-name="Aquitanian" start="23.03" end="20.43" unit="Age" font-family="Roboto Condensed">AQT</text>
+<text x="21.8%" y="18" full-name="Burdigalian" start="20.43" end="15.97" unit="Age" font-family="Roboto Condensed">Burdigalian</text>
+<text x="33.0%" y="18" full-name="Langhian" start="15.97" end="13.82" unit="Age" font-family="Roboto Condensed">LAN</text>
+<text x="38.2%" y="18" full-name="Serravallian" start="13.82" end="11.61" unit="Age" font-family="Roboto Condensed">SER</text>
+<text x="43.2%" y="18" full-name="Tortonian" start="11.61" end="7.25" unit="Age" font-family="Roboto Condensed">Tortonian</text>
+<text x="53.2%" y="18" full-name="Messinian" start="7.25" end="5.33" unit="Age" font-family="Roboto Condensed">MES</text>
+<text x="57.6%" y="18" full-name="Zanclean" start="5.33" end="3.60" unit="Age" font-family="Roboto Condensed">ZAN</text>
+<text x="69.9%" y="17" fill="black" font-size="12" font-family="Roboto Condensed">Ages</text>
+</g>
+<polyline points="19,0 624,0" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<polyline points="19,0 19,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<g id="timescale-epochs" class="geo-timescale">
+<rect x="2.2%" y="20" width="67.2%" height="20" fill="none" stroke="#555555" stroke-width="1"></rect>
+<rect x="2.3%" y="21" width="13.1%" height="17" fill="#FDC07A" stroke="#FDC07A" stroke-width="3" full-name="Oligocene" start="33.90" end="23.03" unit="Epoch" title="Oligocene"></rect>
+<rect x="15.4%" y="21" width="41.6%" height="18" fill="#FFFF00" stroke="#FFFF00" stroke-width="3" full-name="Miocene" start="23.03" end="5.33" unit="Epoch" title="Miocene"></rect>
+<rect x="57.0%" y="21" width="8.2%" height="18" fill="#FFFF99" stroke="#FFFF99" stroke-width="3" full-name="Pliocene" start="5.33" end="1.81" unit="Epoch" title="Pliocene"></rect>
+<rect x="65.2%" y="21" width="4.2%" height="18" fill="#FFF2AE" stroke="#FFF2AE" stroke-width="3" full-name="Pleistocene" start="1.81" end="0.01" unit="Epoch" title="Pleistocene"></rect>
+<rect x="69.4%" y="21" width="0.0%" height="18" fill="#FEF2E0" stroke="#FEF2E0" stroke-width="3" full-name="Holocene" start="0.01" end="0.00" unit="Epoch" title="Holocene"></rect>
+<polyline points="624,0 624,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<rect x="69.4%" y="19" width="0.3%" height="22" fill="white" stroke="white" stroke-width="1"></rect>
+</g>
+<g id="timescale-epochs-text" class="geo-timescale">
+<text x="4.8%" y="36" full-name="Oligocene" start="33.90" end="23.03" unit="Epoch" font-family="Roboto Condensed">Oligocene</text>
+<text x="33.0%" y="36" full-name="Miocene" start="23.03" end="5.33" unit="Epoch" font-family="Roboto Condensed">Miocene</text>
+<text x="57.4%" y="36" full-name="Pliocene" start="5.33" end="1.81" unit="Epoch" font-family="Roboto Condensed">Pliocene</text>
+<text x="65.9%" y="36" full-name="Pleistocene" start="1.81" end="0.01" unit="Epoch" font-family="Roboto Condensed">PLE</text>
+<text x="69.9%" y="36" fill="black" font-size="12" font-family="Roboto Condensed">Epochs</text>
+</g>
+<polyline points="19,0 19,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<g id="timescale-periods" class="geo-timescale">
+<rect x="2.2%" y="40" width="67.2%" height="20" fill="none" stroke="#555555" stroke-width="1"></rect>
+<rect x="2.3%" y="41" width="13.1%" height="17" fill="#FD9A52" stroke="#FD9A52" stroke-width="3" full-name="Paleogene" start="65.50" end="23.03" unit="Period" title="Paleogene"></rect>
+<rect x="15.4%" y="41" width="54.0%" height="18" fill="#FFE619" stroke="#FFE619" stroke-width="3" full-name="Neogene" start="23.03" end="0.00" unit="Period" title="Neogene"></rect>
+<polyline points="624,0 624,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<rect x="69.4%" y="39" width="0.3%" height="22" fill="white" stroke="white" stroke-width="1"></rect>
+</g>
+<g id="timescale-periods-text" class="geo-timescale">
+<text x="4.8%" y="56" full-name="Paleogene" start="65.50" end="23.03" unit="Period" font-family="Roboto Condensed">Paleogene</text>
+<text x="39.2%" y="56" full-name="Neogene" start="23.03" end="0.00" unit="Period" font-family="Roboto Condensed">Neogene</text>
+<text x="69.9%" y="56" fill="black" font-size="12" font-family="Roboto Condensed">Periods</text>
+</g>
+<polyline points="19,0 19,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<g id="timescale-eras" class="geo-timescale">
+<rect x="2.2%" y="60" width="67.2%" height="20" fill="none" stroke="#555555" stroke-width="1"></rect>
+<rect x="2.3%" y="61" width="67.1%" height="17" fill="#F2F91D" stroke="#F2F91D" stroke-width="3" full-name="Cenozoic" start="65.50" end="0.00" unit="Era" title="Cenozoic"></rect>
+<polyline points="624,0 624,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<rect x="69.4%" y="59" width="0.3%" height="21" fill="white" stroke="white" stroke-width="1"></rect>
+</g>
+<g id="timescale-eras-text" class="geo-timescale">
+<text x="32.2%" y="76" full-name="Cenozoic" start="65.50" end="0.00" unit="Era" font-family="Roboto Condensed">Cenozoic</text>
+<text x="69.9%" y="75" fill="black" font-size="12" font-family="Roboto Condensed">Eras</text>
+</g>
+<polyline points="19,0 19,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<g id="timescale-eons" class="geo-timescale">
+<rect x="2.2%" y="80" width="67.2%" height="20" fill="none" stroke="#555555" stroke-width="1"></rect>
+<rect x="2.3%" y="81" width="67.1%" height="17" fill="#9AD9DD" stroke="#9AD9DD" stroke-width="3" full-name="Phanerozoic" start="542.00" end="0.00" unit="Eon" title="Phanerozoic"></rect>
+<polyline points="624,0 624,20" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<polyline points="19,19 624,19" fill="none" stroke="#555555" stroke-width="1" stroke-linecap="square"></polyline>
+<rect x="69.4%" y="79" width="0.3%" height="21" fill="white" stroke="white" stroke-width="1"></rect>
+</g>
+<g id="timescale-eons-text" class="geo-timescale">
+<text x="30.9%" y="96" full-name="Phanerozoic" start="542.00" end="0.00" unit="Eon" font-family="Roboto Condensed">Phanerozoic</text>
+<text x="69.9%" y="95" fill="black" font-size="12" font-family="Roboto Condensed">Eons</text>
+<text x="76.0%" y="56" font-height="16" fill="#1c6bc9" font-family="Roboto Condensed">Geologic Timescale</text>
+</g>
+</defs>
+<svg width="100%" height="100" y="0" viewBox="0 0 900 100" preserveAspectRatio="none">
+<use href="#timescale-ages"></use>
+<use href="#timescale-epochs"></use>
+<use href="#timescale-periods"></use>
+<use href="#timescale-eras"></use>
+<use href="#timescale-eons"></use>
+</svg>
+<svg width="100%" height="100" y="0" preserveAspectRatio="none">
+<use href="#timescale-ages-text"></use>
+<use href="#timescale-epochs-text"></use>
+<use href="#timescale-periods-text"></use>
+<use href="#timescale-eras-text"></use>
+<use href="#timescale-eons-text"></use>
+</svg>
+</svg>

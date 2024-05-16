@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="1640" name="tree" y="0">
+<defs>
+<g class="background" id="prunetree-background-colors" bg-colors="ages">
+<polyline points="20,1640 25,1640 25,20 20,20 20,1640" class="background" fill="#FED99A" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="25,1640 138,1640 138,20 25,20 25,1640" class="background" fill="#FEE6AA" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="138,1640 193,1640 193,20 138,20 138,1640" class="background" fill="#FFFF33" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="193,1640 287,1640 287,20 193,20 193,1640" class="background" fill="#FFFF41" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="287,1640 332,1640 332,20 287,20 287,1640" class="background" fill="#FFFF4D" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="332,1640 379,1640 379,20 332,20 332,1640" class="background" fill="#FFFF59" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="379,1640 471,1640 471,20 379,20 379,1640" class="background" fill="#FFFF66" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="471,1640 512,1640 512,20 471,20 471,1640" class="background" fill="#FFFF73" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="512,1640 548,1640 548,20 512,20 512,1640" class="background" fill="#FFFFB3" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="548,1640 569,1640 569,20 548,20 548,1640" class="background" fill="#FFFFBF" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="569,1640 586,1640 586,20 569,20 569,1640" class="background" fill="#FFFFCC" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="586,1640 608,1640 608,20 586,20 586,1640" class="background" fill="#FFF2BA" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="608,1640 621,1640 621,20 608,20 608,1640" class="background" fill="#FFF2C7" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="621,1640 624,1640 624,20 621,20 621,1640" class="background" fill="#FFF2D3" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+<polyline points="624,1640 624,1640 624,20 624,20 624,1640" class="background" fill="#FEF2EC" fill-opacity="0.2" stroke="#000000" stroke-width="0" stroke-linecap="square"></polyline>
+</g>
+<g id="prunetree-branches" class="branches" depth="unknown">
+<polyline points="568,69 568,59 624,59" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="568,73 568,83 624,83" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="447,130 447,71 568,71" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="474,129 474,107 624,107" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="547,153 547,131 624,131" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="568,165 568,155 624,155" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="568,169 568,179 624,179" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="568,181 568,203 624,203" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<line x1="568" y1="155" x2="568" y2="177" stroke="#000000" stroke-width="2"></line>
+<polyline points="547,157 547,179 568,179" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="474,133 474,155 547,155" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="449,192 449,131 474,131" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="614,237 614,227 624,227" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="614,241 614,251 624,251" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="596,255 596,239 614,239" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="596,259 596,275 624,275" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="449,196 449,257 596,257" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<line x1="447" y1="134" x2="447" y2="257" stroke="#000000" stroke-width="2"></line>
+<polyline points="220,256 220,132 447,132" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="576,309 576,299 624,299" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="576,313 576,323 624,323" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="451,336 451,311 576,311" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="509,363 509,347 624,347" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="585,381 585,371 624,371" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="585,385 585,395 624,395" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="509,367 509,383 585,383" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="451,340 451,365 509,365" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="309,382 309,338 451,338" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="538,429 538,419 624,419" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="538,433 538,443 624,443" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="309,386 309,431 538,431" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="220,260 220,384 309,384" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="20,625 20,258 220,258" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="501,477 501,467 624,467" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="501,481 501,491 624,491" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="417,495 417,479 501,479" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="417,499 417,515 624,515" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="365,585 365,497 417,497" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="564,549 564,539 624,539" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="564,553 564,563 624,563" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="524,576 524,551 564,551" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="554,603 554,587 624,587" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="569,621 569,611 624,611" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="569,625 569,635 624,635" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="554,607 554,623 569,623" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="524,580 524,605 554,605" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="405,676 405,578 524,578" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="495,777 495,659 624,659" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="600,693 600,683 624,683" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="600,697 600,707 624,707" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="574,711 574,695 600,695" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="574,715 574,731 624,731" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="566,732 566,713 574,713" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="566,736 566,755 624,755" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="566,748 566,779 624,779" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<line x1="566" y1="713" x2="566" y2="744" stroke="#000000" stroke-width="2"></line>
+<polyline points="545,772 545,746 566,746" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="545,776 545,803 624,803" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="542,819 542,774 545,774" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="589,837 589,827 624,827" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="589,841 589,851 624,851" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="569,855 569,839 589,839" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="569,859 569,875 624,875" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="569,871 569,899 624,899" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<line x1="569" y1="839" x2="569" y2="867" stroke="#000000" stroke-width="2"></line>
+<polyline points="542,823 542,869 569,869" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="532,898 532,821 542,821" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="581,933 581,923 624,923" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="581,937 581,947 624,947" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="576,951 576,935 581,935" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="576,955 576,971 624,971" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="549,978 549,953 576,953" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="589,1005 589,995 624,995" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="589,1009 589,1019 624,1019" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="549,982 549,1007 589,1007" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="532,902 532,980 549,980" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="495,781 495,900 532,900" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="405,680 405,779 495,779" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="365,589 365,678 405,678" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="251,994 251,587 365,587" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="565,1053 565,1043 624,1043" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="565,1057 565,1067 624,1067" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="411,1167 411,1055 565,1055" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="566,1116 566,1091 624,1091" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="604,1125 604,1115 624,1115" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="604,1129 604,1139 624,1139" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="598,1143 598,1127 604,1127" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="598,1147 598,1163 624,1163" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="566,1120 566,1145 598,1145" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="555,1176 555,1118 566,1118" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="615,1197 615,1187 624,1187" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="615,1201 615,1211 624,1211" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="605,1215 605,1199 615,1199" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="605,1219 605,1235 624,1235" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="594,1236 594,1217 605,1217" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="594,1240 594,1259 624,1259" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="555,1180 555,1238 594,1238" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="498,1234 498,1178 555,1178" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="614,1293 614,1283 624,1283" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="614,1297 614,1307 624,1307" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="498,1238 498,1295 614,1295" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="446,1281 446,1236 498,1236" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="446,1285 446,1331 624,1331" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="411,1171 411,1283 446,1283" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="573,1371 573,1355 624,1355" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="610,1389 610,1379 624,1379" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="610,1393 610,1403 624,1403" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="573,1375 573,1391 610,1391" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="471,1413 471,1373 573,1373" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="548,1455 548,1427 624,1427" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="587,1461 587,1451 624,1451" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="587,1465 587,1475 624,1475" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="578,1485 578,1463 587,1463" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="610,1509 610,1499 624,1499" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="610,1513 610,1523 624,1523" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="578,1489 578,1511 610,1511" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="548,1459 548,1487 578,1487" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="471,1417 471,1457 548,1457" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="411,1237 411,1415 471,1415" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<line x1="411" y1="1055" x2="411" y2="1233" stroke="#000000" stroke-width="2"></line>
+<polyline points="358,1404 358,1235 411,1235" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="478,1557 478,1547 624,1547" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="478,1561 478,1571 624,1571" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="412,1575 412,1559 478,1559" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="412,1579 412,1595 624,1595" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="358,1408 358,1577 412,1577" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="251,998 251,1406 358,1406" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+<polyline points="20,629 20,996 251,996" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square"></polyline>
+</g>
+<g id="prunetree-nodes" class="branches" depth="unknown">
+<circle cx="69.3%" cy="59" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Hoolock hoolock" time="" lncount="1" id="84327" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="59" r="12" class="node" rank="species" otu="true" name="Hoolock hoolock" time="" lncount="1" id="84327" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="83" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Hoolock leuconedys" time="" lncount="1" id="84328" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="83" r="12" class="node" rank="species" otu="true" name="Hoolock leuconedys" time="" lncount="1" id="84328" fill="rgba(0,0,0,0)"></circle>
+<circle cx="63.1%" cy="71" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="1.42" cihi="3.78" ci_string="CI: (1.4 - 3.8)" isci="false" time="2.67" lncount="2" name="Hoolock" id="84326" fill="#3382D1"></circle>
+<circle cx="63.1%" cy="71" r="12" class="node" rank="genus" cilo="1.42" cihi="3.78" ci_string="CI: (1.4 - 3.8)" isci="false" time="2.67" lncount="2" name="Hoolock" id="84326" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="107" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Symphalangus syndactylus" time="" lncount="1" id="84331" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="107" r="12" class="node" rank="species" otu="true" name="Symphalangus syndactylus" time="" lncount="1" id="84331" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="131" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Hylobates pileatus" time="" lncount="1" id="84333" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="131" r="12" class="node" rank="species" otu="true" name="Hylobates pileatus" time="" lncount="1" id="84333" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="155" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Hylobates agilis" time="" lncount="1" id="84339" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="155" r="12" class="node" rank="species" otu="true" name="Hylobates agilis" time="" lncount="1" id="84339" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="179" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Hylobates moloch" time="" lncount="1" id="84348" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="179" r="12" class="node" rank="species" otu="true" name="Hylobates moloch" time="" lncount="1" id="84348" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="203" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Hylobates lar" time="" lncount="1" id="84350" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="203" r="12" class="node" rank="species" otu="true" name="Hylobates lar" time="" lncount="1" id="84350" fill="rgba(0,0,0,0)"></circle>
+<circle cx="63.1%" cy="179" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="2.87" cihi="3.53" ci_string="CI: (2.9 - 3.5)" adjusted_age="3.5" isci="false" time="3.14" lncount="3" dof="Hylobates" id="84334" fill="#3382D1"></circle>
+<circle cx="63.1%" cy="179" r="12" class="node" rank="unknown" cilo="2.87" cihi="3.53" ci_string="CI: (2.9 - 3.5)" adjusted_age="3.5" isci="false" time="3.14" lncount="3" dof="Hylobates" id="84334" fill="rgba(0,0,0,0)"></circle>
+<circle cx="60.8%" cy="155" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="3.64" cihi="4.75" ci_string="CI: (3.6 - 4.8)" isci="false" time="4.06" lncount="4" name="Hylobates" id="84332" fill="#3382D1"></circle>
+<circle cx="60.8%" cy="155" r="12" class="node" rank="genus" cilo="3.64" cihi="4.75" ci_string="CI: (3.6 - 4.8)" isci="false" time="4.06" lncount="4" name="Hylobates" id="84332" fill="rgba(0,0,0,0)"></circle>
+<circle cx="52.7%" cy="131" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="6.39" cihi="8.00" ci_string="CI: (6.4 - 8)" isci="false" time="7.41" lncount="5" dof="Hylobatidae" id="84330" fill="#3382D1"></circle>
+<circle cx="52.7%" cy="131" r="12" class="node" rank="unknown" cilo="6.39" cihi="8.00" ci_string="CI: (6.4 - 8)" isci="false" time="7.41" lncount="5" dof="Hylobatidae" id="84330" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="227" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Nomascus leucogenys" time="" lncount="1" id="84361" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="227" r="12" class="node" rank="species" otu="true" name="Nomascus leucogenys" time="" lncount="1" id="84361" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="251" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Nomascus siki" time="" lncount="1" id="84362" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="251" r="12" class="node" rank="species" otu="true" name="Nomascus siki" time="" lncount="1" id="84362" fill="rgba(0,0,0,0)"></circle>
+<circle cx="68.2%" cy="239" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.330" cihi="1.253" ci_string="CI: (0.3 - 1.3)" isci="false" time="0.480" lncount="2" dof="Hylobatidae" id="84360" fill="#3382D1"></circle>
+<circle cx="68.2%" cy="239" r="12" class="node" rank="unknown" cilo="0.330" cihi="1.253" ci_string="CI: (0.3 - 1.3)" isci="false" time="0.480" lncount="2" dof="Hylobatidae" id="84360" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="275" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Nomascus gabriellae" time="" lncount="1" id="84363" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="275" r="12" class="node" rank="species" otu="true" name="Nomascus gabriellae" time="" lncount="1" id="84363" fill="rgba(0,0,0,0)"></circle>
+<circle cx="66.2%" cy="257" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.00" cihi="2.65" ci_string="CI: (1 - 2.6)" adjusted_age="1.3" isci="false" time="1.35" lncount="3" dof="Hylobatidae" id="84359" fill="#3382D1"></circle>
+<circle cx="66.2%" cy="257" r="12" class="node" rank="unknown" cilo="1.00" cihi="2.65" ci_string="CI: (1 - 2.6)" adjusted_age="1.3" isci="false" time="1.35" lncount="3" dof="Hylobatidae" id="84359" fill="rgba(0,0,0,0)"></circle>
+<circle cx="49.7%" cy="132" r="4" stroke="#3382D1" stroke-width="1" rank="family" cilo="7.25" cihi="14.04" ci_string="CI: (7.2 - 14)" adjusted_age="9" isci="false" time="8.39" lncount="10" name="Hylobatidae" id="84325" fill="#3382D1"></circle>
+<circle cx="49.7%" cy="132" r="12" class="node" rank="family" cilo="7.25" cihi="14.04" ci_string="CI: (7.2 - 14)" adjusted_age="9" isci="false" time="8.39" lncount="10" name="Hylobatidae" id="84325" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="299" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Gorilla gorilla" time="" lncount="1" id="84377" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="299" r="12" class="node" rank="species" otu="true" name="Gorilla gorilla" time="" lncount="1" id="84377" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="323" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Gorilla beringei" time="" lncount="1" id="84378" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="323" r="12" class="node" rank="species" otu="true" name="Gorilla beringei" time="" lncount="1" id="84378" fill="rgba(0,0,0,0)"></circle>
+<circle cx="64.0%" cy="311" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="0.68" cihi="5.50" ci_string="CI: (0.7 - 5.5)" adjusted_age="2.3" isci="false" time="2.27" lncount="2" name="Gorilla" id="84376" fill="#3382D1"></circle>
+<circle cx="64.0%" cy="311" r="12" class="node" rank="genus" cilo="0.68" cihi="5.50" ci_string="CI: (0.7 - 5.5)" adjusted_age="2.3" isci="false" time="2.27" lncount="2" name="Gorilla" id="84376" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="347" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Homo sapiens" time="" lncount="1" id="84380" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="347" r="12" class="node" rank="species" otu="true" name="Homo sapiens" time="" lncount="1" id="84380" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="371" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pan paniscus" time="" lncount="1" id="84384" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="371" r="12" class="node" rank="species" otu="true" name="Pan paniscus" time="" lncount="1" id="84384" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="395" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pan troglodytes" time="" lncount="1" id="84385" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="395" r="12" class="node" rank="species" otu="true" name="Pan troglodytes" time="" lncount="1" id="84385" fill="rgba(0,0,0,0)"></circle>
+<circle cx="65.0%" cy="383" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="2.18" cihi="2.97" ci_string="CI: (2.2 - 3)" isci="false" time="2.40" lncount="2" name="Pan" id="84383" fill="#3382D1"></circle>
+<circle cx="65.0%" cy="383" r="12" class="node" rank="genus" cilo="2.18" cihi="2.97" ci_string="CI: (2.2 - 3)" isci="false" time="2.40" lncount="2" name="Pan" id="84383" fill="rgba(0,0,0,0)"></circle>
+<circle cx="56.6%" cy="365" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="6.00" cihi="6.50" ci_string="CI: (6 - 6.5)" isci="false" time="6.40" lncount="3" dof="Homininae" id="84379" fill="#3382D1"></circle>
+<circle cx="56.6%" cy="365" r="12" class="node" rank="unknown" cilo="6.00" cihi="6.50" ci_string="CI: (6 - 6.5)" isci="false" time="6.40" lncount="3" dof="Homininae" id="84379" fill="rgba(0,0,0,0)"></circle>
+<circle cx="50.1%" cy="338" r="4" stroke="#3382D1" stroke-width="1" rank="subfamily" cilo="8.25" cihi="9.30" ci_string="CI: (8.2 - 9.3)" isci="false" time="8.60" lncount="5" name="Homininae" id="84375" fill="#3382D1"></circle>
+<circle cx="50.1%" cy="338" r="12" class="node" rank="subfamily" cilo="8.25" cihi="9.30" ci_string="CI: (8.2 - 9.3)" isci="false" time="8.60" lncount="5" name="Homininae" id="84375" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="419" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pongo pygmaeus" time="" lncount="1" id="84393" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="419" r="12" class="node" rank="species" otu="true" name="Pongo pygmaeus" time="" lncount="1" id="84393" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="443" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pongo abelii" time="" lncount="1" id="84394" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="443" r="12" class="node" rank="species" otu="true" name="Pongo abelii" time="" lncount="1" id="84394" fill="rgba(0,0,0,0)"></circle>
+<circle cx="59.8%" cy="431" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="3.80" cihi="4.90" ci_string="CI: (3.8 - 4.9)" adjusted_age="4.1" isci="false" time="4.11" lncount="2" name="Pongo" id="84392" fill="#3382D1"></circle>
+<circle cx="59.8%" cy="431" r="12" class="node" rank="genus" cilo="3.80" cihi="4.90" ci_string="CI: (3.8 - 4.9)" adjusted_age="4.1" isci="false" time="4.11" lncount="2" name="Pongo" id="84392" fill="rgba(0,0,0,0)"></circle>
+<circle cx="34.3%" cy="384" r="4" stroke="#3382D1" stroke-width="1" rank="family" cilo="14.50" cihi="16.30" ci_string="CI: (14.5 - 16.3)" isci="false" time="15.20" lncount="7" name="Hominidae" id="84374" fill="#3382D1"></circle>
+<circle cx="34.3%" cy="384" r="12" class="node" rank="family" cilo="14.50" cihi="16.30" ci_string="CI: (14.5 - 16.3)" isci="false" time="15.20" lncount="7" name="Hominidae" id="84374" fill="rgba(0,0,0,0)"></circle>
+<circle cx="24.4%" cy="258" r="4" stroke="#3382D1" stroke-width="1" rank="superfamily" cilo="18.80" cihi="20.30" ci_string="CI: (18.8 - 20.3)" isci="false" time="19.46" lncount="17" name="Hominoidea" id="84324" fill="#3382D1"></circle>
+<circle cx="24.4%" cy="258" r="12" class="node" rank="superfamily" cilo="18.80" cihi="20.30" ci_string="CI: (18.8 - 20.3)" isci="false" time="19.46" lncount="17" name="Hominoidea" id="84324" fill="rgba(0,0,0,0)"></circle>
+<circle cx="2.2%" cy="625" r="4" fill="#3382D1"></circle>
+<circle cx="2.2%" cy="625" r="12" class="node" rank="parvorder" time="28.82" cilo="26.80" cihi="30.60" isci="false" lncount="65" name="Catarrhini" id="84323" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="467" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Cercopithecus diana" time="" lncount="1" id="84474" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="467" r="12" class="node" rank="species" otu="true" name="Cercopithecus diana" time="" lncount="1" id="84474" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="491" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Cercopithecus neglectus" time="" lncount="1" id="84486" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="491" r="12" class="node" rank="species" otu="true" name="Cercopithecus neglectus" time="" lncount="1" id="84486" fill="rgba(0,0,0,0)"></circle>
+<circle cx="55.7%" cy="479" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="5.22" cihi="8.35" ci_string="CI: (5.2 - 8.3)" isci="false" time="5.87" lncount="2" dof="Cercopithecinae" id="84424" fill="#3382D1"></circle>
+<circle cx="55.7%" cy="479" r="12" class="node" rank="unknown" cilo="5.22" cihi="8.35" ci_string="CI: (5.2 - 8.3)" isci="false" time="5.87" lncount="2" dof="Cercopithecinae" id="84424" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="515" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Allenopithecus nigroviridis" time="" lncount="1" id="84497" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="515" r="12" class="node" rank="species" otu="true" name="Allenopithecus nigroviridis" time="" lncount="1" id="84497" fill="rgba(0,0,0,0)"></circle>
+<circle cx="46.3%" cy="497" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="7.21" cihi="14.10" ci_string="CI: (7.2 - 14.1)" isci="false" time="9.85" lncount="3" dof="Cercopithecinae" id="84397" fill="#3382D1"></circle>
+<circle cx="46.3%" cy="497" r="12" class="node" rank="unknown" cilo="7.21" cihi="14.10" ci_string="CI: (7.2 - 14.1)" isci="false" time="9.85" lncount="3" dof="Cercopithecinae" id="84397" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="539" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Mandrillus sphinx" time="" lncount="1" id="84521" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="539" r="12" class="node" rank="species" otu="true" name="Mandrillus sphinx" time="" lncount="1" id="84521" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="563" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Mandrillus leucophaeus" time="" lncount="1" id="84522" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="563" r="12" class="node" rank="species" otu="true" name="Mandrillus leucophaeus" time="" lncount="1" id="84522" fill="rgba(0,0,0,0)"></circle>
+<circle cx="62.7%" cy="551" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="1.00" cihi="3.85" ci_string="CI: (1 - 3.9)" isci="false" time="2.88" lncount="2" name="Mandrillus" id="84520" fill="#3382D1"></circle>
+<circle cx="62.7%" cy="551" r="12" class="node" rank="genus" cilo="1.00" cihi="3.85" ci_string="CI: (1 - 3.9)" isci="false" time="2.88" lncount="2" name="Mandrillus" id="84520" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="587" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Cercocebus chrysogaster" time="" lncount="1" id="84528" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="587" r="12" class="node" rank="species" otu="true" name="Cercocebus chrysogaster" time="" lncount="1" id="84528" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="611" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Cercocebus atys" time="" lncount="1" id="84530" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="611" r="12" class="node" rank="species" otu="true" name="Cercocebus atys" time="" lncount="1" id="84530" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="635" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Cercocebus torquatus" time="" lncount="1" id="84531" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="635" r="12" class="node" rank="species" otu="true" name="Cercocebus torquatus" time="" lncount="1" id="84531" fill="rgba(0,0,0,0)"></circle>
+<circle cx="63.2%" cy="623" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.04" cihi="3.61" ci_string="CI: (1 - 3.6)" isci="false" time="2.64" lncount="2" dof="Cercocebus" id="84529" fill="#3382D1"></circle>
+<circle cx="63.2%" cy="623" r="12" class="node" rank="unknown" cilo="1.04" cihi="3.61" ci_string="CI: (1 - 3.6)" isci="false" time="2.64" lncount="2" dof="Cercocebus" id="84529" fill="rgba(0,0,0,0)"></circle>
+<circle cx="61.6%" cy="605" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="2.37" cihi="7.10" ci_string="CI: (2.4 - 7.1)" isci="false" time="3.33" lncount="3" name="Cercocebus" id="84523" fill="#3382D1"></circle>
+<circle cx="61.6%" cy="605" r="12" class="node" rank="genus" cilo="2.37" cihi="7.10" ci_string="CI: (2.4 - 7.1)" isci="false" time="3.33" lncount="3" name="Cercocebus" id="84523" fill="rgba(0,0,0,0)"></circle>
+<circle cx="58.2%" cy="578" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="3.90" cihi="5.46" ci_string="CI: (3.9 - 5.5)" isci="false" time="4.73" lncount="5" dof="Cercopithecinae" id="84519" fill="#3382D1"></circle>
+<circle cx="58.2%" cy="578" r="12" class="node" rank="unknown" cilo="3.90" cihi="5.46" ci_string="CI: (3.9 - 5.5)" isci="false" time="4.73" lncount="5" dof="Cercopithecinae" id="84519" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="659" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca sylvanus" time="" lncount="1" id="84533" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="659" r="12" class="node" rank="species" otu="true" name="Macaca sylvanus" time="" lncount="1" id="84533" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="683" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca thibetana" time="" lncount="1" id="84541" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="683" r="12" class="node" rank="species" otu="true" name="Macaca thibetana" time="" lncount="1" id="84541" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="707" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca assamensis" time="" lncount="1" id="84542" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="707" r="12" class="node" rank="species" otu="true" name="Macaca assamensis" time="" lncount="1" id="84542" fill="rgba(0,0,0,0)"></circle>
+<circle cx="66.7%" cy="695" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.00" cihi="1.49" ci_string="CI: (0 - 1.5)" isci="false" time="1.15" lncount="2" dof="Macaca" id="84540" fill="#3382D1"></circle>
+<circle cx="66.7%" cy="695" r="12" class="node" rank="unknown" cilo="0.00" cihi="1.49" ci_string="CI: (0 - 1.5)" isci="false" time="1.15" lncount="2" dof="Macaca" id="84540" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="731" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca sinica" time="" lncount="1" id="84543" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="731" r="12" class="node" rank="species" otu="true" name="Macaca sinica" time="" lncount="1" id="84543" fill="rgba(0,0,0,0)"></circle>
+<circle cx="63.8%" cy="713" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.85" cihi="2.82" ci_string="CI: (1.9 - 2.8)" isci="false" time="2.40" lncount="3" dof="Macaca" id="84539" fill="#3382D1"></circle>
+<circle cx="63.8%" cy="713" r="12" class="node" rank="unknown" cilo="1.85" cihi="2.82" ci_string="CI: (1.9 - 2.8)" isci="false" time="2.40" lncount="3" dof="Macaca" id="84539" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="755" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca radiata" time="" lncount="1" id="84546" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="755" r="12" class="node" rank="species" otu="true" name="Macaca radiata" time="" lncount="1" id="84546" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="779" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca leucogenys" time="" lncount="1" id="84547" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="779" r="12" class="node" rank="species" otu="true" name="Macaca leucogenys" time="" lncount="1" id="84547" fill="rgba(0,0,0,0)"></circle>
+<circle cx="62.9%" cy="746" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.00" cihi="0.00" ci_string="CI: (1.6 - 7.5)" adjusted_age="2.8" isci="false" time="2.51" lncount="5" dof="Macaca" id="84537" fill="#3382D1"></circle>
+<circle cx="62.9%" cy="746" r="12" class="node" rank="unknown" cilo="0.00" cihi="0.00" ci_string="CI: (1.6 - 7.5)" adjusted_age="2.8" isci="false" time="2.51" lncount="5" dof="Macaca" id="84537" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="803" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca arctoides" time="" lncount="1" id="84548" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="803" r="12" class="node" rank="species" otu="true" name="Macaca arctoides" time="" lncount="1" id="84548" fill="rgba(0,0,0,0)"></circle>
+<circle cx="60.6%" cy="774" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.60" cihi="7.50" ci_string="CI: (1.6 - 7.5)" adjusted_age="3.7" isci="false" time="3.74" lncount="6" dof="Macaca" id="84536" fill="#3382D1"></circle>
+<circle cx="60.6%" cy="774" r="12" class="node" rank="unknown" cilo="1.60" cihi="7.50" ci_string="CI: (1.6 - 7.5)" adjusted_age="3.7" isci="false" time="3.74" lncount="6" dof="Macaca" id="84536" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="827" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca mulatta" time="" lncount="1" id="84552" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="827" r="12" class="node" rank="species" otu="true" name="Macaca mulatta" time="" lncount="1" id="84552" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="851" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca cyclopis" time="" lncount="1" id="84557" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="851" r="12" class="node" rank="species" otu="true" name="Macaca cyclopis" time="" lncount="1" id="84557" fill="rgba(0,0,0,0)"></circle>
+<circle cx="65.4%" cy="839" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.67" cihi="4.70" ci_string="CI: (1.7 - 4.7)" isci="false" time="2.34" lncount="2" dof="Macaca" id="84551" fill="#3382D1"></circle>
+<circle cx="65.4%" cy="839" r="12" class="node" rank="unknown" cilo="1.67" cihi="4.70" ci_string="CI: (1.7 - 4.7)" isci="false" time="2.34" lncount="2" dof="Macaca" id="84551" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="875" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca fuscata" time="" lncount="1" id="84558" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="875" r="12" class="node" rank="species" otu="true" name="Macaca fuscata" time="" lncount="1" id="84558" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="899" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca fascicularis" time="" lncount="1" id="84559" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="899" r="12" class="node" rank="species" otu="true" name="Macaca fascicularis" time="" lncount="1" id="84559" fill="rgba(0,0,0,0)"></circle>
+<circle cx="63.2%" cy="869" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.92" cihi="4.04" ci_string="CI: (1.9 - 4)" adjusted_age="3.3" isci="false" time="2.92" lncount="4" dof="Macaca" id="84549" fill="#3382D1"></circle>
+<circle cx="63.2%" cy="869" r="12" class="node" rank="unknown" cilo="1.92" cihi="4.04" ci_string="CI: (1.9 - 4)" adjusted_age="3.3" isci="false" time="2.92" lncount="4" dof="Macaca" id="84549" fill="rgba(0,0,0,0)"></circle>
+<circle cx="60.2%" cy="821" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="2.77" cihi="6.12" ci_string="CI: (2.8 - 6.1)" adjusted_age="4.2" isci="false" time="4.21" lncount="10" dof="Macaca" id="84535" fill="#3382D1"></circle>
+<circle cx="60.2%" cy="821" r="12" class="node" rank="unknown" cilo="2.77" cihi="6.12" ci_string="CI: (2.8 - 6.1)" adjusted_age="4.2" isci="false" time="4.21" lncount="10" dof="Macaca" id="84535" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="923" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca silenus" time="" lncount="1" id="84567" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="923" r="12" class="node" rank="species" otu="true" name="Macaca silenus" time="" lncount="1" id="84567" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="947" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca nemestrina" time="" lncount="1" id="84568" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="947" r="12" class="node" rank="species" otu="true" name="Macaca nemestrina" time="" lncount="1" id="84568" fill="rgba(0,0,0,0)"></circle>
+<circle cx="64.6%" cy="935" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.00" cihi="3.54" ci_string="CI: (0 - 3.5)" isci="false" time="2.05" lncount="2" dof="Macaca" id="84566" fill="#3382D1"></circle>
+<circle cx="64.6%" cy="935" r="12" class="node" rank="unknown" cilo="0.00" cihi="3.54" ci_string="CI: (0 - 3.5)" isci="false" time="2.05" lncount="2" dof="Macaca" id="84566" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="971" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca leonina" time="" lncount="1" id="84572" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="971" r="12" class="node" rank="species" otu="true" name="Macaca leonina" time="" lncount="1" id="84572" fill="rgba(0,0,0,0)"></circle>
+<circle cx="64.0%" cy="953" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.50" cihi="4.37" ci_string="CI: (1.5 - 4.4)" isci="false" time="2.28" lncount="3" dof="Macaca" id="84565" fill="#3382D1"></circle>
+<circle cx="64.0%" cy="953" r="12" class="node" rank="unknown" cilo="1.50" cihi="4.37" ci_string="CI: (1.5 - 4.4)" isci="false" time="2.28" lncount="3" dof="Macaca" id="84565" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="995" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca nigra" time="" lncount="1" id="84578" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="995" r="12" class="node" rank="species" otu="true" name="Macaca nigra" time="" lncount="1" id="84578" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1019" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Macaca tonkeana" time="" lncount="1" id="84579" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1019" r="12" class="node" rank="species" otu="true" name="Macaca tonkeana" time="" lncount="1" id="84579" fill="rgba(0,0,0,0)"></circle>
+<circle cx="65.4%" cy="1007" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.40" cihi="2.95" ci_string="CI: (1.4 - 2.9)" isci="false" time="1.69" lncount="2" dof="Macaca" id="84577" fill="#3382D1"></circle>
+<circle cx="65.4%" cy="1007" r="12" class="node" rank="unknown" cilo="1.40" cihi="2.95" ci_string="CI: (1.4 - 2.9)" isci="false" time="1.69" lncount="2" dof="Macaca" id="84577" fill="rgba(0,0,0,0)"></circle>
+<circle cx="61.0%" cy="980" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="2.80" cihi="6.04" ci_string="CI: (2.8 - 6)" isci="false" time="3.55" lncount="5" dof="Macaca" id="84564" fill="#3382D1"></circle>
+<circle cx="61.0%" cy="980" r="12" class="node" rank="unknown" cilo="2.80" cihi="6.04" ci_string="CI: (2.8 - 6)" isci="false" time="3.55" lncount="5" dof="Macaca" id="84564" fill="rgba(0,0,0,0)"></circle>
+<circle cx="59.1%" cy="900" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="3.93" cihi="5.54" ci_string="CI: (3.9 - 5.5)" isci="false" time="4.50" lncount="15" dof="Macaca" id="84534" fill="#3382D1"></circle>
+<circle cx="59.1%" cy="900" r="12" class="node" rank="unknown" cilo="3.93" cihi="5.54" ci_string="CI: (3.9 - 5.5)" isci="false" time="4.50" lncount="15" dof="Macaca" id="84534" fill="rgba(0,0,0,0)"></circle>
+<circle cx="55.0%" cy="779" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="5.54" cihi="8.51" ci_string="CI: (5.5 - 8.5)" adjusted_age="6" isci="false" time="6.19" lncount="16" name="Macaca" id="84532" fill="#3382D1"></circle>
+<circle cx="55.0%" cy="779" r="12" class="node" rank="genus" cilo="5.54" cihi="8.51" ci_string="CI: (5.5 - 8.5)" adjusted_age="6" isci="false" time="6.19" lncount="16" name="Macaca" id="84532" fill="rgba(0,0,0,0)"></circle>
+<circle cx="45.0%" cy="678" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="8.79" cihi="11.05" ci_string="CI: (8.8 - 11.1)" isci="false" time="10.45" lncount="21" dof="Cercopithecinae" id="84498" fill="#3382D1"></circle>
+<circle cx="45.0%" cy="678" r="12" class="node" rank="unknown" cilo="8.79" cihi="11.05" ci_string="CI: (8.8 - 11.1)" isci="false" time="10.45" lncount="21" dof="Cercopithecinae" id="84498" fill="rgba(0,0,0,0)"></circle>
+<circle cx="40.6%" cy="587" r="4" stroke="#3382D1" stroke-width="1" rank="subfamily" cilo="11.50" cihi="13.09" ci_string="CI: (11.5 - 13.1)" isci="false" time="12.33" lncount="24" name="Cercopithecinae" id="84396" fill="#3382D1"></circle>
+<circle cx="40.6%" cy="587" r="12" class="node" rank="subfamily" cilo="11.50" cihi="13.09" ci_string="CI: (11.5 - 13.1)" isci="false" time="12.33" lncount="24" name="Cercopithecinae" id="84396" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1043" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus johnii" time="" lncount="1" id="84595" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1043" r="12" class="node" rank="species" otu="true" name="Trachypithecus johnii" time="" lncount="1" id="84595" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1067" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus vetulus" time="" lncount="1" id="84598" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1067" r="12" class="node" rank="species" otu="true" name="Trachypithecus vetulus" time="" lncount="1" id="84598" fill="rgba(0,0,0,0)"></circle>
+<circle cx="62.8%" cy="1055" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="2.48" cihi="6.50" ci_string="CI: (2.5 - 6.5)" adjusted_age="2.8" isci="false" time="2.79" lncount="2" dof="Colobinae" id="84590" fill="#3382D1"></circle>
+<circle cx="62.8%" cy="1055" r="12" class="node" rank="unknown" cilo="2.48" cihi="6.50" ci_string="CI: (2.5 - 6.5)" adjusted_age="2.8" isci="false" time="2.79" lncount="2" dof="Colobinae" id="84590" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1091" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus obscurus" time="" lncount="1" id="84609" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1091" r="12" class="node" rank="species" otu="true" name="Trachypithecus obscurus" time="" lncount="1" id="84609" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1115" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus mauritius" time="" lncount="1" id="84616" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1115" r="12" class="node" rank="species" otu="true" name="Trachypithecus mauritius" time="" lncount="1" id="84616" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1139" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus cristatus" time="" lncount="1" id="84619" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1139" r="12" class="node" rank="species" otu="true" name="Trachypithecus cristatus" time="" lncount="1" id="84619" fill="rgba(0,0,0,0)"></circle>
+<circle cx="67.1%" cy="1127" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.510" cihi="1.250" ci_string="CI: (0.5 - 1.2)" isci="false" time="0.948" lncount="2" dof="Colobinae" id="84611" fill="#3382D1"></circle>
+<circle cx="67.1%" cy="1127" r="12" class="node" rank="unknown" cilo="0.510" cihi="1.250" ci_string="CI: (0.5 - 1.2)" isci="false" time="0.948" lncount="2" dof="Colobinae" id="84611" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1163" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus germaini" time="" lncount="1" id="84620" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1163" r="12" class="node" rank="species" otu="true" name="Trachypithecus germaini" time="" lncount="1" id="84620" fill="rgba(0,0,0,0)"></circle>
+<circle cx="66.4%" cy="1145" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.55" cihi="2.20" ci_string="CI: (0.6 - 2.2)" isci="false" time="1.25" lncount="3" dof="Colobinae" id="84610" fill="#3382D1"></circle>
+<circle cx="66.4%" cy="1145" r="12" class="node" rank="unknown" cilo="0.55" cihi="2.20" ci_string="CI: (0.6 - 2.2)" isci="false" time="1.25" lncount="3" dof="Colobinae" id="84610" fill="rgba(0,0,0,0)"></circle>
+<circle cx="62.9%" cy="1118" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.23" cihi="4.04" ci_string="CI: (1.2 - 4)" isci="false" time="2.76" lncount="4" dof="Colobinae" id="84602" fill="#3382D1"></circle>
+<circle cx="62.9%" cy="1118" r="12" class="node" rank="unknown" cilo="1.23" cihi="4.04" ci_string="CI: (1.2 - 4)" isci="false" time="2.76" lncount="4" dof="Colobinae" id="84602" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1187" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus francoisi" time="" lncount="1" id="84626" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1187" r="12" class="node" rank="species" otu="true" name="Trachypithecus francoisi" time="" lncount="1" id="84626" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1211" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus poliocephalus" time="" lncount="1" id="84627" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1211" r="12" class="node" rank="species" otu="true" name="Trachypithecus poliocephalus" time="" lncount="1" id="84627" fill="rgba(0,0,0,0)"></circle>
+<circle cx="68.3%" cy="1199" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.362" cihi="0.742" ci_string="CI: (0.4 - 0.7)" isci="false" time="0.459" lncount="2" dof="Colobinae" id="84625" fill="#3382D1"></circle>
+<circle cx="68.3%" cy="1199" r="12" class="node" rank="unknown" cilo="0.362" cihi="0.742" ci_string="CI: (0.4 - 0.7)" isci="false" time="0.459" lncount="2" dof="Colobinae" id="84625" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1235" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus hatinhensis" time="" lncount="1" id="84631" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1235" r="12" class="node" rank="species" otu="true" name="Trachypithecus hatinhensis" time="" lncount="1" id="84631" fill="rgba(0,0,0,0)"></circle>
+<circle cx="67.2%" cy="1217" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.614" cihi="1.670" ci_string="CI: (0.6 - 1.7)" adjusted_age="0.94" isci="false" time="0.850" lncount="3" dof="Colobinae" id="84623" fill="#3382D1"></circle>
+<circle cx="67.2%" cy="1217" r="12" class="node" rank="unknown" cilo="0.614" cihi="1.670" ci_string="CI: (0.6 - 1.7)" adjusted_age="0.94" isci="false" time="0.850" lncount="3" dof="Colobinae" id="84623" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1259" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus laotum" time="" lncount="1" id="84632" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1259" r="12" class="node" rank="species" otu="true" name="Trachypithecus laotum" time="" lncount="1" id="84632" fill="rgba(0,0,0,0)"></circle>
+<circle cx="66.0%" cy="1238" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.23" cihi="2.96" ci_string="CI: (0.2 - 3)" isci="false" time="1.43" lncount="4" dof="Colobinae" id="84622" fill="#3382D1"></circle>
+<circle cx="66.0%" cy="1238" r="12" class="node" rank="unknown" cilo="0.23" cihi="2.96" ci_string="CI: (0.2 - 3)" isci="false" time="1.43" lncount="4" dof="Colobinae" id="84622" fill="rgba(0,0,0,0)"></circle>
+<circle cx="61.7%" cy="1178" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="2.23" cihi="5.07" ci_string="CI: (2.2 - 5.1)" isci="false" time="3.30" lncount="8" dof="Colobinae" id="84601" fill="#3382D1"></circle>
+<circle cx="61.7%" cy="1178" r="12" class="node" rank="unknown" cilo="2.23" cihi="5.07" ci_string="CI: (2.2 - 5.1)" isci="false" time="3.30" lncount="8" dof="Colobinae" id="84601" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1283" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus geei" time="" lncount="1" id="84636" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1283" r="12" class="node" rank="species" otu="true" name="Trachypithecus geei" time="" lncount="1" id="84636" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1307" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Trachypithecus pileatus" time="" lncount="1" id="84637" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1307" r="12" class="node" rank="species" otu="true" name="Trachypithecus pileatus" time="" lncount="1" id="84637" fill="rgba(0,0,0,0)"></circle>
+<circle cx="68.2%" cy="1295" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.000" cihi="0.800" ci_string="CI: (0 - 0.8)" adjusted_age="0.47" isci="false" time="0.474" lncount="2" dof="Colobinae" id="84635" fill="#3382D1"></circle>
+<circle cx="68.2%" cy="1295" r="12" class="node" rank="unknown" cilo="0.000" cihi="0.800" ci_string="CI: (0 - 0.8)" adjusted_age="0.47" isci="false" time="0.474" lncount="2" dof="Colobinae" id="84635" fill="rgba(0,0,0,0)"></circle>
+<circle cx="55.3%" cy="1236" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="3.47" cihi="8.95" ci_string="CI: (3.5 - 8.9)" isci="false" time="5.97" lncount="10" dof="Colobinae" id="84600" fill="#3382D1"></circle>
+<circle cx="55.3%" cy="1236" r="12" class="node" rank="unknown" cilo="3.47" cihi="8.95" ci_string="CI: (3.5 - 8.9)" isci="false" time="5.97" lncount="10" dof="Colobinae" id="84600" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1331" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Presbytis comata" time="" lncount="1" id="84656" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1331" r="12" class="node" rank="species" otu="true" name="Presbytis comata" time="" lncount="1" id="84656" fill="rgba(0,0,0,0)"></circle>
+<circle cx="49.6%" cy="1283" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="7.92" cihi="11.37" ci_string="CI: (7.9 - 11.4)" isci="false" time="8.46" lncount="11" dof="Colobinae" id="84599" fill="#3382D1"></circle>
+<circle cx="49.6%" cy="1283" r="12" class="node" rank="unknown" cilo="7.92" cihi="11.37" ci_string="CI: (7.9 - 11.4)" isci="false" time="8.46" lncount="11" dof="Colobinae" id="84599" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1355" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pygathrix nigripes" time="" lncount="1" id="84666" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1355" r="12" class="node" rank="species" otu="true" name="Pygathrix nigripes" time="" lncount="1" id="84666" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1379" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pygathrix cinerea" time="" lncount="1" id="84668" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1379" r="12" class="node" rank="species" otu="true" name="Pygathrix cinerea" time="" lncount="1" id="84668" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1403" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Pygathrix nemaeus" time="" lncount="1" id="84669" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1403" r="12" class="node" rank="species" otu="true" name="Pygathrix nemaeus" time="" lncount="1" id="84669" fill="rgba(0,0,0,0)"></circle>
+<circle cx="67.8%" cy="1391" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.216" cihi="1.672" ci_string="CI: (0.2 - 1.7)" isci="false" time="0.700" lncount="2" dof="Pygathrix" id="84667" fill="#3382D1"></circle>
+<circle cx="67.8%" cy="1391" r="12" class="node" rank="unknown" cilo="0.216" cihi="1.672" ci_string="CI: (0.2 - 1.7)" isci="false" time="0.700" lncount="2" dof="Pygathrix" id="84667" fill="rgba(0,0,0,0)"></circle>
+<circle cx="63.7%" cy="1373" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="1.95" cihi="2.84" ci_string="CI: (1.9 - 2.8)" isci="false" time="2.41" lncount="3" name="Pygathrix" id="84665" fill="#3382D1"></circle>
+<circle cx="63.7%" cy="1373" r="12" class="node" rank="genus" cilo="1.95" cihi="2.84" ci_string="CI: (1.9 - 2.8)" isci="false" time="2.41" lncount="3" name="Pygathrix" id="84665" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1427" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Rhinopithecus avunculus" time="" lncount="1" id="84671" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1427" r="12" class="node" rank="species" otu="true" name="Rhinopithecus avunculus" time="" lncount="1" id="84671" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1451" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Rhinopithecus brelichi" time="" lncount="1" id="84674" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1451" r="12" class="node" rank="species" otu="true" name="Rhinopithecus brelichi" time="" lncount="1" id="84674" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1475" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Rhinopithecus roxellana" time="" lncount="1" id="84675" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1475" r="12" class="node" rank="species" otu="true" name="Rhinopithecus roxellana" time="" lncount="1" id="84675" fill="rgba(0,0,0,0)"></circle>
+<circle cx="65.2%" cy="1463" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.74" cihi="2.19" ci_string="CI: (1.7 - 2.2)" isci="false" time="1.77" lncount="2" dof="Rhinopithecus" id="84673" fill="#3382D1"></circle>
+<circle cx="65.2%" cy="1463" r="12" class="node" rank="unknown" cilo="1.74" cihi="2.19" ci_string="CI: (1.7 - 2.2)" isci="false" time="1.77" lncount="2" dof="Rhinopithecus" id="84673" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1499" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Rhinopithecus strykeri" time="" lncount="1" id="84677" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1499" r="12" class="node" rank="species" otu="true" name="Rhinopithecus strykeri" time="" lncount="1" id="84677" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1523" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Rhinopithecus bieti" time="" lncount="1" id="84678" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1523" r="12" class="node" rank="species" otu="true" name="Rhinopithecus bieti" time="" lncount="1" id="84678" fill="rgba(0,0,0,0)"></circle>
+<circle cx="67.8%" cy="1511" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="0.000" cihi="0.000" ci_string="CI: (1.7 - 2.2)" isci="false" time="0.660" lncount="2" dof="Rhinopithecus" id="84676" fill="#3382D1"></circle>
+<circle cx="67.8%" cy="1511" r="12" class="node" rank="unknown" cilo="0.000" cihi="0.000" ci_string="CI: (1.7 - 2.2)" isci="false" time="0.660" lncount="2" dof="Rhinopithecus" id="84676" fill="rgba(0,0,0,0)"></circle>
+<circle cx="64.2%" cy="1487" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="1.98" cihi="3.20" ci_string="CI: (2 - 3.2)" isci="false" time="2.19" lncount="4" dof="Rhinopithecus" id="84672" fill="#3382D1"></circle>
+<circle cx="64.2%" cy="1487" r="12" class="node" rank="unknown" cilo="1.98" cihi="3.20" ci_string="CI: (2 - 3.2)" isci="false" time="2.19" lncount="4" dof="Rhinopithecus" id="84672" fill="rgba(0,0,0,0)"></circle>
+<circle cx="60.9%" cy="1457" r="4" stroke="#3382D1" stroke-width="1" rank="genus" cilo="2.34" cihi="4.20" ci_string="CI: (2.3 - 4.2)" isci="false" time="3.60" lncount="5" name="Rhinopithecus" id="84670" fill="#3382D1"></circle>
+<circle cx="60.9%" cy="1457" r="12" class="node" rank="genus" cilo="2.34" cihi="4.20" ci_string="CI: (2.3 - 4.2)" isci="false" time="3.60" lncount="5" name="Rhinopithecus" id="84670" fill="rgba(0,0,0,0)"></circle>
+<circle cx="52.3%" cy="1415" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="6.43" cihi="8.73" ci_string="CI: (6.4 - 8.7)" isci="false" time="7.26" lncount="8" dof="Colobinae" id="84660" fill="#3382D1"></circle>
+<circle cx="52.3%" cy="1415" r="12" class="node" rank="unknown" cilo="6.43" cihi="8.73" ci_string="CI: (6.4 - 8.7)" isci="false" time="7.26" lncount="8" dof="Colobinae" id="84660" fill="rgba(0,0,0,0)"></circle>
+<circle cx="45.7%" cy="1235" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="7.67" cihi="13.47" ci_string="CI: (7.7 - 13.5)" adjusted_age="10" isci="false" time="9.67" lncount="21" dof="Colobinae" id="84588" fill="#3382D1"></circle>
+<circle cx="45.7%" cy="1235" r="12" class="node" rank="unknown" cilo="7.67" cihi="13.47" ci_string="CI: (7.7 - 13.5)" adjusted_age="10" isci="false" time="9.67" lncount="21" dof="Colobinae" id="84588" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1547" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Procolobus verus" time="" lncount="1" id="84681" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1547" r="12" class="node" rank="species" otu="true" name="Procolobus verus" time="" lncount="1" id="84681" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1571" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Piliocolobus badius" time="" lncount="1" id="84683" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1571" r="12" class="node" rank="species" otu="true" name="Piliocolobus badius" time="" lncount="1" id="84683" fill="rgba(0,0,0,0)"></circle>
+<circle cx="53.1%" cy="1559" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="6.40" cihi="10.30" ci_string="CI: (6.4 - 10.3)" isci="false" time="7.50" lncount="2" dof="Colobinae" id="84680" fill="#3382D1"></circle>
+<circle cx="53.1%" cy="1559" r="12" class="node" rank="unknown" cilo="6.40" cihi="10.30" ci_string="CI: (6.4 - 10.3)" isci="false" time="7.50" lncount="2" dof="Colobinae" id="84680" fill="rgba(0,0,0,0)"></circle>
+<circle cx="69.3%" cy="1595" r="2" stroke="#3382D1" stroke-width="1" rank="species" otu="true" name="Colobus guereza" time="" lncount="1" id="84708" fill="#3382D1"></circle>
+<circle cx="69.3%" cy="1595" r="12" class="node" rank="species" otu="true" name="Colobus guereza" time="" lncount="1" id="84708" fill="rgba(0,0,0,0)"></circle>
+<circle cx="45.8%" cy="1577" r="4" stroke="#3382D1" stroke-width="1" rank="unknown" cilo="8.30" cihi="11.32" ci_string="CI: (8.3 - 11.3)" isci="false" time="10.36" lncount="3" dof="Colobinae" id="84679" fill="#3382D1"></circle>
+<circle cx="45.8%" cy="1577" r="12" class="node" rank="unknown" cilo="8.30" cihi="11.32" ci_string="CI: (8.3 - 11.3)" isci="false" time="10.36" lncount="3" dof="Colobinae" id="84679" fill="rgba(0,0,0,0)"></circle>
+<circle cx="39.8%" cy="1406" r="4" stroke="#3382D1" stroke-width="1" rank="subfamily" cilo="10.32" cihi="14.12" ci_string="CI: (10.3 - 14.1)" isci="false" time="12.79" lncount="24" name="Colobinae" id="84587" fill="#3382D1"></circle>
+<circle cx="39.8%" cy="1406" r="12" class="node" rank="subfamily" cilo="10.32" cihi="14.12" ci_string="CI: (10.3 - 14.1)" isci="false" time="12.79" lncount="24" name="Colobinae" id="84587" fill="rgba(0,0,0,0)"></circle>
+<circle cx="27.9%" cy="996" r="4" stroke="#3382D1" stroke-width="1" rank="family" cilo="15.50" cihi="19.80" ci_string="CI: (15.5 - 19.8)" adjusted_age="18" isci="false" time="17.75" lncount="48" name="Cercopithecidae" id="84395" fill="#3382D1"></circle>
+<circle cx="27.9%" cy="996" r="12" class="node" rank="family" cilo="15.50" cihi="19.80" ci_string="CI: (15.5 - 19.8)" adjusted_age="18" isci="false" time="17.75" lncount="48" name="Cercopithecidae" id="84395" fill="rgba(0,0,0,0)"></circle>
+</g>
+<g id="prunetree-names" class="branches" depth="unknown">
+<text x="71.3%" y="64" font-style="italic"> Hoolock hoolock</text>
+<text x="71.3%" y="88" font-style="italic"> Hoolock leuconedys</text>
+<text x="71.3%" y="112" font-style="italic"> Symphalangus syndactylus</text>
+<text x="71.3%" y="136" font-style="italic"> Hylobates pileatus</text>
+<text x="71.3%" y="160" font-style="italic"> Hylobates agilis</text>
+<text x="71.3%" y="184" font-style="italic"> Hylobates moloch</text>
+<text x="71.3%" y="208" font-style="italic"> Hylobates lar</text>
+<text x="71.3%" y="232" font-style="italic"> Nomascus leucogenys</text>
+<text x="71.3%" y="256" font-style="italic"> Nomascus siki</text>
+<text x="71.3%" y="280" font-style="italic"> Nomascus gabriellae</text>
+<text x="71.3%" y="304" font-style="italic"> Gorilla gorilla</text>
+<text x="71.3%" y="328" font-style="italic"> Gorilla beringei</text>
+<text x="71.3%" y="352" font-style="italic"> Homo sapiens</text>
+<text x="71.3%" y="376" font-style="italic"> Pan paniscus</text>
+<text x="71.3%" y="400" font-style="italic"> Pan troglodytes</text>
+<text x="71.3%" y="424" font-style="italic"> Pongo pygmaeus</text>
+<text x="71.3%" y="448" font-style="italic"> Pongo abelii</text>
+<text x="71.3%" y="472" font-style="italic"> Cercopithecus diana</text>
+<text x="71.3%" y="496" font-style="italic"> Cercopithecus neglectus</text>
+<text x="71.3%" y="520" font-style="italic"> Allenopithecus nigroviridis</text>
+<text x="71.3%" y="544" font-style="italic"> Mandrillus sphinx</text>
+<text x="71.3%" y="568" font-style="italic"> Mandrillus leucophaeus</text>
+<text x="71.3%" y="592" font-style="italic"> Cercocebus chrysogaster</text>
+<text x="71.3%" y="616" font-style="italic"> Cercocebus atys</text>
+<text x="71.3%" y="640" font-style="italic"> Cercocebus torquatus</text>
+<text x="71.3%" y="664" font-style="italic"> Macaca sylvanus</text>
+<text x="71.3%" y="688" font-style="italic"> Macaca thibetana</text>
+<text x="71.3%" y="712" font-style="italic"> Macaca assamensis</text>
+<text x="71.3%" y="736" font-style="italic"> Macaca sinica</text>
+<text x="71.3%" y="760" font-style="italic"> Macaca radiata</text>
+<text x="71.3%" y="784" font-style="italic"> Macaca leucogenys</text>
+<text x="71.3%" y="808" font-style="italic"> Macaca arctoides</text>
+<text x="71.3%" y="832" font-style="italic"> Macaca mulatta</text>
+<text x="71.3%" y="856" font-style="italic"> Macaca cyclopis</text>
+<text x="71.3%" y="880" font-style="italic"> Macaca fuscata</text>
+<text x="71.3%" y="904" font-style="italic"> Macaca fascicularis</text>
+<text x="71.3%" y="928" font-style="italic"> Macaca silenus</text>
+<text x="71.3%" y="952" font-style="italic"> Macaca nemestrina</text>
+<text x="71.3%" y="976" font-style="italic"> Macaca leonina</text>
+<text x="71.3%" y="1000" font-style="italic"> Macaca nigra</text>
+<text x="71.3%" y="1024" font-style="italic"> Macaca tonkeana</text>
+<text x="71.3%" y="1048" font-style="italic"> Trachypithecus johnii</text>
+<text x="71.3%" y="1072" font-style="italic"> Trachypithecus vetulus</text>
+<text x="71.3%" y="1096" font-style="italic"> Trachypithecus obscurus</text>
+<text x="71.3%" y="1120" font-style="italic"> Trachypithecus mauritius</text>
+<text x="71.3%" y="1144" font-style="italic"> Trachypithecus cristatus</text>
+<text x="71.3%" y="1168" font-style="italic"> Trachypithecus germaini</text>
+<text x="71.3%" y="1192" font-style="italic"> Trachypithecus francoisi</text>
+<text x="71.3%" y="1216" font-style="italic"> Trachypithecus poliocephalus</text>
+<text x="71.3%" y="1240" font-style="italic"> Trachypithecus hatinhensis</text>
+<text x="71.3%" y="1264" font-style="italic"> Trachypithecus laotum</text>
+<text x="71.3%" y="1288" font-style="italic"> Trachypithecus geei</text>
+<text x="71.3%" y="1312" font-style="italic"> Trachypithecus pileatus</text>
+<text x="71.3%" y="1336" font-style="italic">*Presbytis melalophos</text>
+<text x="71.3%" y="1360" font-style="italic"> Pygathrix nigripes</text>
+<text x="71.3%" y="1384" font-style="italic"> Pygathrix cinerea</text>
+<text x="71.3%" y="1408" font-style="italic"> Pygathrix nemaeus</text>
+<text x="71.3%" y="1432" font-style="italic"> Rhinopithecus avunculus</text>
+<text x="71.3%" y="1456" font-style="italic"> Rhinopithecus brelichi</text>
+<text x="71.3%" y="1480" font-style="italic"> Rhinopithecus roxellana</text>
+<text x="71.3%" y="1504" font-style="italic"> Rhinopithecus strykeri</text>
+<text x="71.3%" y="1528" font-style="italic"> Rhinopithecus bieti</text>
+<text x="71.3%" y="1552" font-style="italic"> Procolobus verus</text>
+<text x="71.3%" y="1576" font-style="italic"> Piliocolobus badius</text>
+<text x="71.3%" y="1600" font-style="italic"> Colobus guereza</text>
+</g>
+</defs>
+<svg viewBox="0 0 900 1640" preserveAspectRatio="none">
+<use href="#prunetree-background-colors" width="1" height="1"></use>
+</svg>
+<svg viewBox="0 0 900 1640" preserveAspectRatio="none">
+<use href="#prunetree-branches"></use>
+</svg>
+<svg preserveAspectRatio="none">
+<use href="#prunetree-nodes"></use>
+</svg>
+<svg preserveAspectRatio="none">
+<use href="#prunetree-names"></use>
+</svg>
+</svg>

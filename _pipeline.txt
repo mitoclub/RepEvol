@@ -1,0 +1,28 @@
+X 22.02   ref2ali_maper.py   .fasta   maps/%s/%s.csv
+(once) 22.02   ref2ali_maper_sql.py   .fasta   maps/%s/%s.sqlite карты
+
+
+X 22.02   repremaper.py   
+(once) 24.02   repremaper_sql.py   FOUND3_TXT   FOUND3_TXT_remaped .sqlite
+
+
+#################################
+
+X 24.02   repchecker.py
+V 24.02/19.03   repchecker_sql.py   FOUND1_TXT_remaped  Homo_sapiens  FOUND1_SQL_remaped  Checking yes/no/may  .csv
+X 24.02   repchecker_sql_except.py
+
+
+(once) 02.03   mtbr_maper.py  MitoBreakDB_121219.csv maps/Homo_sapiens.csv  MitoBreakDB_121219_group3.csv    Создает файл для сверки митобрейка с новыми координатами под каждую группу
+
+V 02.03   mtbr_checker.py Checking2/no   MitoBreakDB_121219_group3.csv   Checking2/no_real   Проверяет повторы на реализованность
+
+N 07.03   lostrep_checker.py  Checking3 no_real   no_count.csv
+
+20.03   real2ali.py
+
+
+
+
+
+
